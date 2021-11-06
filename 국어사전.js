@@ -1,4 +1,4 @@
-
+//Y국어사전 (검색할 단어) 로 작동합니다
 //이 소스를 작동시키기 전 먼저 표준국어대사전 api 키를 받아주세요
 
 function response(room, msg, sender, isGroupChat, replier, imageDB, packageName) {
